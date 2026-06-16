@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img width="97" height="30" alt="no-facebook" src="https://github.com/user-attachments/assets/9a556ae5-784d-49c0-93a8-ce2a6ce20475" />
+<img width="130" height="40" alt="no-facebook" src="https://github.com/user-attachments/assets/9a556ae5-784d-49c0-93a8-ce2a6ce20475" />
