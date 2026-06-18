@@ -1,8 +1,9 @@
+<!--
 ## Witam na moim profilu 😎 :)
 
 Student AGH zafascynowany wszystkim co informatyczne
 
-<!--
+
 **Masiarat/Masiarat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 <img width="130" height="40" alt="no-facebook" src="https://github.com/user-attachments/assets/9a556ae5-784d-49c0-93a8-ce2a6ce20475" />
+
+-->
