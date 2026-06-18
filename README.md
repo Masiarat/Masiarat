@@ -1,4 +1,4 @@
-Student Informatyki na AGH, zafascynowany programowaniem niskopoziomowym i grafiki komputerowej.
+Student Informatyki na AGH, zafascynowany programowaniem niskopoziomowym i grafiką komputerową.
 
 <!--
 **Masiarat/Masiarat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
